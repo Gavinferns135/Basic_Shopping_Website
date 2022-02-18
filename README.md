@@ -1,2 +1,2 @@
 # Basic_Shopping_Website
-Basic shopping website using html and css
+Basic shopping website using html css and js 
